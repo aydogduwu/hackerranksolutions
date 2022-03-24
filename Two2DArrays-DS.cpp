@@ -24,6 +24,7 @@ int hourglassSum(vector<vector<int>> arr) {
     return res;
 }
 
+
 int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
